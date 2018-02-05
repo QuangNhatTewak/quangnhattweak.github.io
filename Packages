@@ -1,0 +1,14 @@
+Package:com.quangnhattweak.appsyncbetaforios10
+Version: <1.5.6>
+Architecture: iphoneos-arm
+Maintainer: QuangNhat Tweak <nhquangvuivui@gmail.com>
+Depends: <bundleids>
+Filename: /AppSync Beta For iOS 10.deb
+Size: 51028
+MD5sum: 70BB85DC6EFFE5DFDAF4583041D1B196
+SHA1: 2EDFD6AECAFFEFBB653AA7135B92D61F1C3356B7
+SHA256: 2735273BCC90C0B3F2F1B77C08BC2D8BDA38B9A766559CA353470C89BC3D5FFB
+Section: <section on your repo>
+Description: System Config
+Author: QuangNhatTweak <nhquangvuivui@gmail.com>
+Name: AppSync Beta For iOS 10
